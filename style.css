@@ -52,6 +52,10 @@ input[type="number"]::-o-outer-spin-button {
     color: #FF0000;
 }
 
+ul p {
+    margin-left: 0;
+}
+
 @media screen and (max-width: 600px) {
     .box {width: 100%}
 }
